@@ -30,7 +30,3 @@ A typical software nerd with a Steve job poster in my room and Elon Musk tshirt 
 [![Telegram Badge](https://img.shields.io/badge/-hemantpandey17-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/hemantpandey17)](https://t.me/hemantpandey17)-->
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-<!---[visitors](https://visitor-badge.glitch.me/badge?page_id=hemantpandey17.hemantpandey17)
-<br><br>
-⭐ From [Hemant Pandey](https://github.com/hemantpandey17)-->
