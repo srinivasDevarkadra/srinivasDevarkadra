@@ -31,6 +31,6 @@ A typical software nerd with a Steve job poster in my room and Elon Musk tshirt 
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-<!---![visitors](https://visitor-badge.glitch.me/badge?page_id=hemantpandey17.hemantpandey17)
+<!---[visitors](https://visitor-badge.glitch.me/badge?page_id=hemantpandey17.hemantpandey17)
 <br><br>
 ⭐ From [Hemant Pandey](https://github.com/hemantpandey17)-->
