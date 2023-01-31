@@ -1,6 +1,6 @@
 # :man_technologist: Srinivas Devarkadra
 
-Working as a Software Engineer at <a href="https://www.salesforce.com/"> <b>Salesforce.com</b></a> in San Francisco Bay area. I have previously worked at <a href="https://www.sap.com/"> <b>SAP</b></a>,<a href="https://www.tesla.com/"> <b>Tesla.com</b></a> and <a href="https://http://www.amazon.com/"> <b>Amazon.com</b></a>(intern).
+Working as a Software Engineer at <a href="https://www.amazon.in/"> <b>Salesforce.com</b></a> in India. I have previously worked at <a href="https://www.oyorooms.com/"> <b>SAP</b></a>,<a href="https://www.dpworld.com/">
 
 ## About Me
 
@@ -31,6 +31,6 @@ A typical software nerd with a Steve job poster in my room and Elon Musk tshirt 
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hemantpandey17.hemantpandey17)
+<!---![visitors](https://visitor-badge.glitch.me/badge?page_id=hemantpandey17.hemantpandey17)
 <br><br>
-⭐ From [Hemant Pandey](https://github.com/hemantpandey17)
+⭐ From [Hemant Pandey](https://github.com/hemantpandey17)-->
