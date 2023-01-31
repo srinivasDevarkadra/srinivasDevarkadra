@@ -1,6 +1,6 @@
 # :man_technologist: Srinivas Devarkadra
 
-Working as a Software Engineer at <a href="https://www.amazon.in/"> <b>Salesforce.com</b></a> in India. I have previously worked at <a href="https://www.oyorooms.com/"> <b>SAP</b></a>,<a href="https://www.dpworld.com/">
+Working as a Software Engineer at <a href="https://www.amazon.in/"> <b>AMAZON.com</b></a> in India. I have previously worked at <a href="https://www.oyorooms.com/"> <b>SAP</b></a>,<a href="https://www.dpworld.com/">
 
 ## About Me
 
