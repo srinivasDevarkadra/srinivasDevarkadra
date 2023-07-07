@@ -25,7 +25,7 @@ Experienced software developer with a strong background in distributed systems. 
 
 ## About Me
 
-A typical software nerd with a Steve job poster in my room and Elon Musk tshirt in my closet. I was born and brought up in New Delhi, India and living in USA since last 4 years.
+A typical software Engineer. I was born and brought up in Hyderabad, India and just landed in USA for my masters.
 
 - 💻 I’m currently a full-stack developer with a focus on cloud and distributed computing.
 
